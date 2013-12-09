@@ -31,7 +31,7 @@ public class first {
         System.out.println(str1);
         System.out.println(String.format("исправить %tc",new Date()));
         Calendar c = Calendar.getInstance();
-
+        System.out.println(str);
     }
 }
 
